@@ -1,2 +1,3 @@
 # wzolni.ml
-data analysis, machine learning, etc
+
+Repository containing data science notebooks created/completed by me.
