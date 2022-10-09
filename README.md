@@ -1,3 +1,3 @@
 # wzolni.ml
 
-Repository containing data science notebooks created/completed by me.
+Repository containing data science notebooks that I've worked on.
