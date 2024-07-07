@@ -1,6 +1,15 @@
 # wzolni.ml
 
-Repository containing data science notebooks that I've worked on.
+Repository containing sample of my data science notebooks.
 
-## TODO List:
-- fix visualization part of the notebook in drug_class_decision_trees (GraphViz's executables not found)
+## Table of content
+
+1. regression
+2. bla bla bla
+
+
+## Running notebook
+
+1. create venv
+2. install deps
+3. activate venv
