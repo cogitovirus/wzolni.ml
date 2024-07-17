@@ -13,7 +13,6 @@ source venv/bin/activate
 1. regression
 2. bla bla bla
 
-
 ## Running notebook
 
 1. create venv
