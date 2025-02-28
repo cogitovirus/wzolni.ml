@@ -8,11 +8,6 @@ Repository containing sample of my data science notebooks.
 source venv/bin/activate
 ```
 
-## Table of content
-
-1. regression
-2. bla bla bla
-
 ## Running notebook
 
 1. create venv
